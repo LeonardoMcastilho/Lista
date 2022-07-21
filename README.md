@@ -1,7 +1,9 @@
 # Lista
 Meu primeiro exercício prático de HTML. Uma lista básica sobre o resumo da corrida espacial, realizada durante guerra fria.
 
-<h2>Viagens espaciais</h2>
+<title>Viagens espaciais</title>
+
+<h1> Viagens espaciais </h1>
 
 <p>Conheça algumas pessoas que já participaram de viagens espaciais.</p>
 
